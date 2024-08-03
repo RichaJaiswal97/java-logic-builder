@@ -1,4 +1,4 @@
-package com.rj;
+ package com.rj;
 
 public class SumofDigitsTillSingleDigit {
     public static void main(String[] args) {
