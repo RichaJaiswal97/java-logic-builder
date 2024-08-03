@@ -6,11 +6,10 @@ public class PalindromeNumber {
         System.out.println("Is given number is palindrome : " + isPalindromeNum(num));
     }
 
-
     public static boolean isPalindromeNum(int num) {
         //check num is -ve
-        if(num<0){
-            num = num*(-1);
+        if (num < 0) {
+            num = num * (-1);
         }
         // build reverse num
         int reveser = 0;
