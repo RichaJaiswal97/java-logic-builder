@@ -1,4 +1,4 @@
-package com.rj;
+package com.rj.Numbers;
 
 public class SqureRoots {
     public static void main(String[] args) {

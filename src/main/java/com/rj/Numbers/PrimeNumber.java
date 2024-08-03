@@ -1,4 +1,4 @@
-package com.rj;
+package com.rj.Numbers;
 
 public class PrimeNumber {
     public static void main(String[] args) {
